@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "carl-anders_MODELLERING/1.0.0": {
+        "runtime": {
+          "carl-anders_MODELLERING.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "carl-anders_MODELLERING/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

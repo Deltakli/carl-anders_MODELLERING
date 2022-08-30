@@ -1,0 +1,15 @@
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\bin\Debug\net6.0\carl-anders_MODELLERING.exe
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\bin\Debug\net6.0\carl-anders_MODELLERING.deps.json
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\bin\Debug\net6.0\carl-anders_MODELLERING.runtimeconfig.json
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\bin\Debug\net6.0\carl-anders_MODELLERING.dll
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\bin\Debug\net6.0\carl-anders_MODELLERING.pdb
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.csproj.AssemblyReference.cache
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.AssemblyInfoInputs.cache
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.AssemblyInfo.cs
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.csproj.CoreCompileInputs.cache
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.dll
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\refint\carl-anders_MODELLERING.dll
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.pdb
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\carl-anders_MODELLERING.genruntimeconfig.cache
+C:\Users\arosenius.carlander\Documents\carl-anders_modellering\carl-anders_MODELLERING\carl-anders_MODELLERING\obj\Debug\net6.0\ref\carl-anders_MODELLERING.dll
